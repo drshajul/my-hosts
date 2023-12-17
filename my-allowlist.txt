@@ -1,0 +1,2 @@
+succeedscene.com  # Trick Admiral ad-blocking
+*.medscape.com
